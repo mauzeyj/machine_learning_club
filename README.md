@@ -2,5 +2,8 @@
 
 ### Notebook Options
  * [Jupyter Notebook](http://jupyter.org/): ```pip install jupyter```
- * What was that other one?
+ * [Jupyter Lab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906): ```pip install jupyterlab```
  * [nteract](https://nteract.io/)
+ * [google colab](https://colab.research.google.com)
+
+
