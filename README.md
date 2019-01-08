@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/mauzeyj/machine_learning_club/master/Data/nfl_
 https://raw.githubusercontent.com/mauzeyj/machine_learning_club/master/Data/nfl_stadiums.csv
 https://raw.githubusercontent.com/mauzeyj/machine_learning_club/master/Data/spreadspoke_scores.csv
 
-Importing the data is very with pandas. 
+Importing the data is very easy with pandas. 
 pd.read_csv('https://raw.githubusercontent.com/mauzeyj/machine_learning_club/master/Data/spreadspoke_scores.csv')
 
 I haven't started working with these data sets yet so I can't vouch for them yet.  Lets all have a great time!!
