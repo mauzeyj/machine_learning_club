@@ -38,3 +38,13 @@ There are two sub-tasks that we could quickly think of for this data.
 You can access the data by checking out the project or by downloading it from google colab. You could then download a 
 copy of the notebook and push that to the project, send it to Jason Mauzey, or remote in to your computer to show what
 you have done. Any work is good work.  We look forward to seeing some good efforts.  
+
+If you don't want to checkout the project you can use these links to get the data, or use the above kaggle link. 
+https://raw.githubusercontent.com/mauzeyj/machine_learning_club/master/Data/nfl_teams.csv
+https://raw.githubusercontent.com/mauzeyj/machine_learning_club/master/Data/nfl_stadiums.csv
+https://raw.githubusercontent.com/mauzeyj/machine_learning_club/master/Data/spreadspoke_scores.csv
+
+Importing the data is very with pandas. 
+pd.read_csv('https://raw.githubusercontent.com/mauzeyj/machine_learning_club/master/Data/spreadspoke_scores.csv')
+
+I haven't started working with these data sets yet so I can't vouch for them yet.  Lets all have a great time!!
