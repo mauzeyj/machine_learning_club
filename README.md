@@ -19,6 +19,7 @@ The next meeting is going to consist of the following parts.
  * Education piece about a TBA machine learning algorithm – may be fulfilled by following talk 
  * Tooling/education about Scikit learn metric tools 
  * 	Application/education of reinforcement learning to blackjack – how to create a table that tells you what the best move is. 
+ * Michael Smith will share his results from the sports dataset. 
 
 We would like 1-2 people to also either present their results and experiences with the sports data set or any other problem they are trying to apply machine learning to. 
 
