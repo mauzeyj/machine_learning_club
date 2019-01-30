@@ -12,7 +12,11 @@ These two sites are great resources
  * [Machine Learning Mastery](https://machinelearningmastery.com/):      Provides plenty of tutorials with python code that you can experiment with. 
  * [Chris Albon](https://chrisalbon.com/):       Great visualizations of how things work. 
 
-### 2018-01-31 Meeting
+### 2019-02-14 Meeting
+
+Thomas Long to present back propagation and gradient descent
+
+### 2019-01-31 Meeting
 
 The next meeting is going to consist of the following parts. 
 
