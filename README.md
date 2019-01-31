@@ -12,7 +12,24 @@ These two sites are great resources
  * [Machine Learning Mastery](https://machinelearningmastery.com/):      Provides plenty of tutorials with python code that you can experiment with. 
  * [Chris Albon](https://chrisalbon.com/):       Great visualizations of how things work. 
 
+### 2019-02-14 Meeting
 
+Thomas Long to present back propagation and gradient descent
+
+### 2019-01-31 Meeting
+
+The next meeting is going to consist of the following parts. 
+
+ * Education piece about a TBA machine learning algorithm – may be fulfilled by following talk 
+ * Tooling/education about Scikit learn metric tools 
+ * 	Application/education of reinforcement learning to blackjack – how to create a table that tells you what the best move is. 
+ * Michael Smith will share his results from the sports dataset. 
+
+We would like 1-2 people to also either present their results and experiences with the sports data set or any other problem they are trying to apply machine learning to. 
+
+
+### 2018-01-17 Meeting Notes
+https://github.com/tdpetrou/Learn-Pandas   This is a great resource for learning pandas. 
 
 ### 2018-01-17 Meeting 
 
