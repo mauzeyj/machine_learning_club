@@ -14,6 +14,7 @@ These two sites are great resources
 
 ### 2019-02-14 Meeting
 
+Orange demonstration
 Thomas Long to present back propagation and gradient descent
 Mark Bastian to present takaway from udacity machine learning engineer nano degree
 
