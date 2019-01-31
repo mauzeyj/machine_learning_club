@@ -15,6 +15,15 @@ These two sites are great resources
 ### 2019-02-14 Meeting
 
 Thomas Long to present back propagation and gradient descent
+Mark Bastian to present takaway from udacity machine learning engineer nano degree
+
+### 2019-01-31 Meeting Notes
+
+David Silver course page  http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+David Silver RL videos    https://www.youtube.com/watch?v=UoPei5o4fps&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT&index=6
+Types of errors           https://www.youtube.com/watch?v=Twf1qnPZeSY
+Learning curves           https://www.youtube.com/watch?v=ZNhnNVKl8NM
+Thank you Udacity and David Silver!
 
 ### 2019-01-31 Meeting
 
