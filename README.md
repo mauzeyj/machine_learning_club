@@ -12,11 +12,21 @@ These two sites are great resources
  * [Machine Learning Mastery](https://machinelearningmastery.com/):      Provides plenty of tutorials with python code that you can experiment with. 
  * [Chris Albon](https://chrisalbon.com/):       Great visualizations of how things work. 
 
+### 2019-02-28 Meeting
+
+ * Watch some udacity Bayes videos with commentary from Jason Mauzey or Matt Grimm
+ * Michael Smith will discuss predicting hall of famers 
+ * Mike Ritthaler will discuss data exploration tool he has created
+
+### 2019-02-14 Meeting Notes
+
+Great job Thomas Long and Mark Bastian
+
 ### 2019-02-14 Meeting
 
-Orange demonstration
-Thomas Long to present back propagation and gradient descent
-Mark Bastian to present takaway from udacity machine learning engineer nano degree
+ * Orange demonstration
+ * Thomas Long to present back propagation and gradient descent
+ * Mark Bastian to present takaway from udacity machine learning engineer nano degree
 
 ### 2019-01-31 Meeting Notes
 
