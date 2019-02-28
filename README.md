@@ -12,7 +12,44 @@ These two sites are great resources
  * [Machine Learning Mastery](https://machinelearningmastery.com/):      Provides plenty of tutorials with python code that you can experiment with. 
  * [Chris Albon](https://chrisalbon.com/):       Great visualizations of how things work. 
 
+### 2019-02-28 Meeting
 
+ * Watch some udacity Bayes videos with commentary from Jason Mauzey or Matt Grimm
+ * Michael Smith will discuss predicting hall of famers 
+ * Mike Ritthaler will discuss data exploration tool he has created
+
+### 2019-02-14 Meeting Notes
+
+Great job Thomas Long and Mark Bastian
+
+### 2019-02-14 Meeting
+
+ * Orange demonstration
+ * Thomas Long to present back propagation and gradient descent
+ * Mark Bastian to present takaway from udacity machine learning engineer nano degree
+
+### 2019-01-31 Meeting Notes
+
+David Silver course page  http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+David Silver RL videos    https://www.youtube.com/watch?v=UoPei5o4fps&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT&index=6
+Types of errors           https://www.youtube.com/watch?v=Twf1qnPZeSY
+Learning curves           https://www.youtube.com/watch?v=ZNhnNVKl8NM
+Thank you Udacity and David Silver!
+
+### 2019-01-31 Meeting
+
+The next meeting is going to consist of the following parts. 
+
+ * Education piece about a TBA machine learning algorithm – may be fulfilled by following talk 
+ * Tooling/education about Scikit learn metric tools 
+ * 	Application/education of reinforcement learning to blackjack – how to create a table that tells you what the best move is. 
+ * Michael Smith will share his results from the sports dataset. 
+
+We would like 1-2 people to also either present their results and experiences with the sports data set or any other problem they are trying to apply machine learning to. 
+
+
+### 2018-01-17 Meeting Notes
+https://github.com/tdpetrou/Learn-Pandas   This is a great resource for learning pandas. 
 
 ### 2018-01-17 Meeting 
 
