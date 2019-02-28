@@ -12,6 +12,12 @@ These two sites are great resources
  * [Machine Learning Mastery](https://machinelearningmastery.com/):      Provides plenty of tutorials with python code that you can experiment with. 
  * [Chris Albon](https://chrisalbon.com/):       Great visualizations of how things work. 
 
+### 2019-03-14 Meeting
+
+ * Watch some Udacity videos including at least AdaBoost
+ * Jason Mauzey to demo and discuss results of Uber open source project Ludwig
+ * Mark Bastian to share either reinforcement learning for cartpole problem or image classification of x-rays
+
 ### 2019-02-28 Meeting
 
  * Watch some udacity Bayes videos with commentary from Jason Mauzey or Matt Grimm
