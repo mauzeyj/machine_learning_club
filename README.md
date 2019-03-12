@@ -17,6 +17,7 @@ These two sites are great resources
  * Watch some Udacity videos including at least AdaBoost
  * Jason Mauzey to demo and discuss results of Uber open source project Ludwig
  * Mark Bastian to share either reinforcement learning for cartpole problem or image classification of x-rays
+ * [Mark Bastian's notes on Sebastian Thrun's Presentation](./2019-03-14/README.md)
 
 ### 2019-02-28 Meeting
 
