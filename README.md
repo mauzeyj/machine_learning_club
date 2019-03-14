@@ -12,6 +12,16 @@ These two sites are great resources
  * [Machine Learning Mastery](https://machinelearningmastery.com/):      Provides plenty of tutorials with python code that you can experiment with. 
  * [Chris Albon](https://chrisalbon.com/):       Great visualizations of how things work. 
 
+### 2019-04-next meeting
+ * Davig Rogers to present personal project.
+
+### 2019-04-04 Meeting
+
+ * Ada boost videos ( Forgot these in last meeting)
+ * Michael Farnsworth will present on a personal project he is doing to get familiar with machine learning and python
+ * Robert Kennedy is going to present how changing just the data had a dramatic affect on Soda pipeline.  (Data is paramount)
+
+
 ### 2019-03-14 Meeting
 
  * Watch some Udacity videos including at least AdaBoost
