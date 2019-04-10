@@ -12,8 +12,11 @@ These two sites are great resources
  * [Machine Learning Mastery](https://machinelearningmastery.com/):      Provides plenty of tutorials with python code that you can experiment with. 
  * [Chris Albon](https://chrisalbon.com/):       Great visualizations of how things work. 
 
-### 2019-04-next meeting
- * Davig Rogers to present personal project.
+### 2019-04-18 Meeting
+ * Watch Ada boost video ( for real this time )
+ * Mike Ritthaler going to discuss BERT
+ * David Rogers to discuss ML project he is working on for his team.  Interested in feedback.  
+
 
 ### 2019-04-04 Meeting
 
