@@ -12,11 +12,15 @@ These two sites are great resources
  * [Machine Learning Mastery](https://machinelearningmastery.com/):      Provides plenty of tutorials with python code that you can experiment with. 
  * [Chris Albon](https://chrisalbon.com/):       Great visualizations of how things work. 
 
+# Meeting agenda and notes
+
+### 2019-05-02 Meeting
+ * Dana Koczur and Travis Heppner to present image classification for mri images.  
+
 ### 2019-04-18 Meeting
  * Watch Ada boost video ( for real this time )
  * Mike Ritthaler going to discuss BERT
  * David Rogers to discuss ML project he is working on for his team.  Interested in feedback.  
-
 
 ### 2019-04-04 Meeting
 
