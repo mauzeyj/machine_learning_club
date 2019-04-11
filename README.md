@@ -72,10 +72,10 @@ The next meeting is going to consist of the following parts.
 We would like 1-2 people to also either present their results and experiences with the sports data set or any other problem they are trying to apply machine learning to. 
 
 
-### 2018-01-17 Meeting Notes
+### 2019-01-17 Meeting Notes
 https://github.com/tdpetrou/Learn-Pandas   This is a great resource for learning pandas. 
 
-### 2018-01-17 Meeting 
+### 2019-01-17 Meeting 
 
 For this meeting the education component is going to consist of:
  * Matt discussing supervised learning and describe both classification and regression problems. 
