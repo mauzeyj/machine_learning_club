@@ -14,6 +14,11 @@ These two sites are great resources
 
 # Meeting agenda and notes
 
+### 2019-05-16
+ * Oriely learning video - TBD
+ * Tooling
+ * Michael Farnsworth to present neural network layers and uses. 
+
 ### 2019-05-02 Meeting
  * Dana Koczur and Travis Heppner to present image classification for mri images.  
 
