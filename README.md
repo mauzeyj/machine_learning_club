@@ -14,6 +14,15 @@ These two sites are great resources
 
 # Meeting agenda and notes
 
+### Next meeting
+ * Jason Mauzey to demo and discuss nvidia jetson nano for realtime image inference tasks.
+
+### 2019-05-30
+ * Mark Bastian to show reinforcement learning video
+ * Matt Grimm to discuss why nonlinearity in activation functions is important
+ * Michael Farnsworth will continue presentation on keras tools. This talk will be on activation functions. 
+
+
 ### 2019-05-16
  * Oriely learning video - TBD
  * Tooling
