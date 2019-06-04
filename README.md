@@ -15,7 +15,9 @@ These two sites are great resources
 # Meeting agenda and notes
 
 ### Next meeting
- * Jason Mauzey to demo and discuss nvidia jetson nano for realtime image inference tasks.
+ * Michael Smill to present embeddings
+ * TBD to discuss applications of embeddings
+ * Mike Ritthaler to present on Siamese Networks  
 
 ### 2019-05-30
  * Mark Bastian to show reinforcement learning video
