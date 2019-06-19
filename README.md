@@ -15,10 +15,11 @@ These two sites are great resources
 # Meeting agenda and notes
 
 ### Next meeting
- * Michael Smill to present embeddings
- * TBD to discuss applications of embeddings
  * Mike Ritthaler to present on Siamese Networks  
-
+ 
+### 2019-06-19
+ * Michael Smith to present embeddings
+ * Jason Mauzey to discuss some applications of embeddings 
 ### 2019-05-30
  * Mark Bastian to show reinforcement learning video
  * Matt Grimm to discuss why nonlinearity in activation functions is important
