@@ -12,6 +12,47 @@ These two sites are great resources
  * [Machine Learning Mastery](https://machinelearningmastery.com/):      Provides plenty of tutorials with python code that you can experiment with. 
  * [Chris Albon](https://chrisalbon.com/):       Great visualizations of how things work. 
 
+# Meeting agenda and notes
+
+### Next meeting
+ * Mike Ritthaler to present on Siamese Networks  
+ 
+### 2019-06-19
+ * Michael Smith to present embeddings
+ * Jason Mauzey to discuss some applications of embeddings 
+### 2019-05-30
+ * Mark Bastian to show reinforcement learning video
+ * Matt Grimm to discuss why nonlinearity in activation functions is important
+ * Michael Farnsworth will continue presentation on keras tools. This talk will be on activation functions. 
+
+
+### 2019-05-16
+ * Oriely learning video - TBD
+ * Tooling
+ * Michael Farnsworth to present neural network layers and uses. 
+
+### 2019-05-02 Meeting
+ * Dana Koczur and Travis Heppner to present image classification for mri images.  
+
+### 2019-04-18 Meeting
+ * Watch Ada boost video ( for real this time )
+ * Mike Ritthaler going to discuss BERT
+ * David Rogers to discuss ML project he is working on for his team.  Interested in feedback.  
+
+### 2019-04-04 Meeting
+
+ * Ada boost videos ( Forgot these in last meeting)
+ * Michael Farnsworth will present on a personal project he is doing to get familiar with machine learning and python
+ * Robert Kennedy is going to present how changing just the data had a dramatic affect on Soda pipeline.  (Data is paramount)
+
+
+### 2019-03-14 Meeting
+
+ * Watch some Udacity videos including at least AdaBoost
+ * Jason Mauzey to demo and discuss results of Uber open source project Ludwig
+ * Mark Bastian to share either reinforcement learning for cartpole problem or image classification of x-rays
+ * [Mark Bastian's notes on Sebastian Thrun's Presentation](./2019-03-14/README.md)
+
 ### 2019-02-28 Meeting
 
  * Watch some udacity Bayes videos with commentary from Jason Mauzey or Matt Grimm
@@ -48,10 +89,10 @@ The next meeting is going to consist of the following parts.
 We would like 1-2 people to also either present their results and experiences with the sports data set or any other problem they are trying to apply machine learning to. 
 
 
-### 2018-01-17 Meeting Notes
+### 2019-01-17 Meeting Notes
 https://github.com/tdpetrou/Learn-Pandas   This is a great resource for learning pandas. 
 
-### 2018-01-17 Meeting 
+### 2019-01-17 Meeting 
 
 For this meeting the education component is going to consist of:
  * Matt discussing supervised learning and describe both classification and regression problems. 
