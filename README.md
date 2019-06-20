@@ -19,6 +19,7 @@ These two sites are great resources
  
 ### 2019-06-19
  * Michael Smith to present embeddings
+   * Code at: https://github.com/DOsinga/deep_learning_cookbook
  * Jason Mauzey to discuss some applications of embeddings 
 ### 2019-05-30
  * Mark Bastian to show reinforcement learning video
