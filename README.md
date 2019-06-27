@@ -16,6 +16,7 @@ These two sites are great resources
 
 ### Next meeting
  * Mike Ritthaler to present on Siamese Networks  
+ * Jason Mauzey to present security2vec
  
 ### 2019-06-19
  * Michael Smith to present embeddings
