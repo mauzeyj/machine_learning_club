@@ -8,7 +8,8 @@
 
 ### Reading List
 
-These two sites are great resources 
+These sites are great resources
+ * [Jalammar's Visualizations](http://jalammar.github.io/): Visualizes complex subjects for a better understanding. 
  * [Machine Learning Mastery](https://machinelearningmastery.com/):      Provides plenty of tutorials with python code that you can experiment with. 
  * [Chris Albon](https://chrisalbon.com/):       Great visualizations of how things work. 
 
