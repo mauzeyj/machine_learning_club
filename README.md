@@ -15,6 +15,14 @@ These two sites are great resources
 # Meeting agenda and notes
 
 ### Next meeting
+ * Robert Kennedy to present gpt-2 general
+ * Mike Ritthaler to present gpt-2 question/answer bot
+ 
+### 2019-07-19
+ * Mark Bastian to present security2vec with auto encoder
+ * Katie Moore to present HMM's and Viterbi algo
+
+### 2019-07-03
  * Mike Ritthaler to present on Siamese Networks  
  * Jason Mauzey to present security2vec
  
